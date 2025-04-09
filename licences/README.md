@@ -1,4 +1,4 @@
-# MIT License
+# [MIT License](https://github.com/NolieRavioli/template/blob/main/licences/MIT.md)
 
 The MIT License is a short, permissive license for software. It allows you to do nearly anything with the code, including commercial or private use, as long as you:
 
@@ -8,7 +8,7 @@ The MIT License is a short, permissive license for software. It allows you to do
 
 > Simplicity and minimal restrictions.
 
-# CC BY-SA 4.0
+# [CC BY-SA 4.0](https://github.com/NolieRavioli/template/blob/main/licences/CC-BY-SA-4.0.md)
 
 The Creative Commons Attribution–ShareAlike 4.0 (CC BY-SA 4.0) license is designed for creative works (e.g., prose, documentation, art, images). You are free to:
 
