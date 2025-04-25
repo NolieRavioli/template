@@ -1,4 +1,4 @@
-# [MIT License](MIT/LICENSE.md)
+# [MIT License](MIT/LICENCE.md)
 
 The MIT License is a short, permissive license for software. It allows you to do nearly anything with the code, including commercial or private use, as long as you:
 
